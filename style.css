@@ -70,7 +70,7 @@ body {
 }
 
 .head {
-    background-image: url(./images/1.png);
+    background-image: url(../images/1.png);
     display: flex;
     color: #fff;
     flex-direction: column;
@@ -97,7 +97,7 @@ body {
    
 }
 .container.events {
-    background-image: url(images/Frame.png);
+    background-image: url(../images/Frame.png);
 }
 .title {
     font-size: 145px;
@@ -108,7 +108,7 @@ body {
     margin-top: 110px;
 }
 .evevents {
-    background-image: url(images/Frame.png);
+    background-image: url(../images/Frame.png);
     display: flex;
     flex-wrap: wrap;
     padding-bottom: 50px;
@@ -150,7 +150,7 @@ body {
 }
 .finder {
     display: flex;
-    background-image: url(images/Frame\ 7.png);
+    background-image: url(../images/Frame\ 7.png);
     min-width: 1000px;
     min-height: 110px;
     margin:165px 220px  37px 220px ;
@@ -184,7 +184,7 @@ body {
 }
 .byuer {
     display: flex;
-    background-image: url(images/Frame\ 17.png);
+    background-image: url(../images/Frame\ 17.png);
     min-height:723px ;
     min-width:1440px ;
     flex-direction: column;
